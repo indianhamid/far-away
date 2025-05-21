@@ -4,7 +4,7 @@ function Stats({ items }) {
   if (items.length === 0)
     return (
       <div className="stats">
-        <p>Start adding some items to your packung list 🚀</p>
+        <p>Start adding some items to your packing list 🚀</p>
       </div>
     );
 
